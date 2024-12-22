@@ -6,6 +6,7 @@ This project demonstrates the process of predicting bike rentals using machine l
 
 ### 1. **Data Import**
    - Load dataset (`train.csv`) with datetime parsing.
+   - Link to the required Datasets: https://www.kaggle.com/c/bike-sharing-demand/data?select=sampleSubmission.csv
 
 ### 2. **Data Exploration**
    - Display the first few rows and check for null values.
